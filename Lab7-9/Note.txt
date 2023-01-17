@@ -1,0 +1,54 @@
+1
+Alex
+217
+1
+Exercitiul 1
+12
+12
+2021
+6
+2
+Gabi
+217
+1
+Exercitiul 1
+12
+12
+2021
+3
+3
+Liviu
+211
+2
+Exercitiul 2
+12
+12
+2021
+7
+4
+Vlad
+212
+3
+Exercitiul 3
+12
+12
+2021
+6
+5
+Marc
+213
+2
+Exercitiul 2
+12
+12
+2021
+8
+9
+Alex
+217
+1
+Exercitiul 1
+12
+12
+2022
+5
